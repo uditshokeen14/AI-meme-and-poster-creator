@@ -8,7 +8,7 @@ from poster_generator import create_poster
 
 st.set_page_config(page_title="AI Meme & Poster Creator", layout="wide")
 
-TEMPLATE_FOLDER = r"C:\Users\ayush\OneDrive\Desktop\AI_Meme_Poster_Creator\templates"
+TEMPLATE_FOLDER = "templates"
 
 # ----------------------------
 # REDDIT STYLE CSS
